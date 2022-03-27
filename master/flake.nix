@@ -11,6 +11,7 @@
   inputs.src-nimbench-master.ref   = "refs/heads/master";
   inputs.src-nimbench-master.owner = "ivankoster";
   inputs.src-nimbench-master.repo  = "nimbench";
+  inputs.src-nimbench-master.dir   = "";
   inputs.src-nimbench-master.type  = "github";
   
   inputs."strfmt".owner = "nim-nix-pkgs";

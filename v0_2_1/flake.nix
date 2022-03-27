@@ -11,6 +11,7 @@
   inputs.src-nimbench-v0_2_1.ref   = "refs/tags/v0.2.1";
   inputs.src-nimbench-v0_2_1.owner = "ivankoster";
   inputs.src-nimbench-v0_2_1.repo  = "nimbench";
+  inputs.src-nimbench-v0_2_1.dir   = "";
   inputs.src-nimbench-v0_2_1.type  = "github";
   
   inputs."strfmt".owner = "nim-nix-pkgs";
